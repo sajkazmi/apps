@@ -50,4 +50,7 @@ canvas = tk.Canvas(window, width = 600, height = 250)
 canvas.grid(columnspan=3)
 
 
+    
+
+
 window.mainloop()
